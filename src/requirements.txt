@@ -1,10 +1,11 @@
+--upgrade pip
 wheel
 numpy
 pandas
 plotly
 opencv-contrib-python
 cmake
-#dlib
+dlib
 face_recognition
 streamlit
 streamlit_option_menu
