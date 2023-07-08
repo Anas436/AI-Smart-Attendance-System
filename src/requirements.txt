@@ -1,4 +1,3 @@
---upgrade pip
 wheel
 numpy
 pandas
