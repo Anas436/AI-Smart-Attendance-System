@@ -6,8 +6,6 @@ This is an advanced Face Recognition Web App that gives you a real times demo of
 
 ## Overview of the App
 
-<img src="langchain-text-summarization.jpg" width="75%">
-
 - Accepts a paragraph of text as the input text (to be summarized) using Streamlit's `st.text_input()`
 - Text is split into chunks via `CharacterTextSplitter()` along with its `split_text()` method
 - Document is generated via `Document()
