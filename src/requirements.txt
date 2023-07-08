@@ -1,9 +1,8 @@
-
 wheel
 numpy
 pandas
 plotly
 opencv-contrib-python
-face_recognition
+conda install -c conda-forge face_recognition
 streamlit
 streamlit_option_menu
