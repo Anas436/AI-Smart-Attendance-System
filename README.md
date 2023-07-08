@@ -4,13 +4,6 @@
 This is an advanced Face Recognition Web App that gives you a real times demo of AI Based Smart Attendance System using Streamlit.
 ```
 
-## Overview of the App
-
-- Accepts a paragraph of text as the input text (to be summarized) using Streamlit's `st.text_input()`
-- Text is split into chunks via `CharacterTextSplitter()` along with its `split_text()` method
-- Document is generated via `Document()
-- Text summarization is achieved using `load_summarize_chain()` by applying the `run()` method on the input `docs`.
-
 ## Demo App
 
 ![](https://github.com/Anas436/Text-Summarization-App/blob/main/text.gif)
