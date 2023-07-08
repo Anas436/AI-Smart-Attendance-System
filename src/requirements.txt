@@ -3,6 +3,8 @@ numpy
 pandas
 plotly
 opencv-contrib-python
-conda install -c conda-forge face_recognition
+cmake
+dlib
+face-recognition
 streamlit
 streamlit_option_menu
