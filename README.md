@@ -8,6 +8,7 @@ This is an advanced Face Recognition Web App that gives you a real times demo of
 
 ![](https://github.com/Anas436/AI-Smart-Attendance-System/blob/main/smart.gif)
 
+
 ## Installation
 
 To install the repository, please clone this repository and install the requirements:
