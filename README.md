@@ -6,7 +6,7 @@ This is an advanced Face Recognition Web App that gives you a real times demo of
 
 ## Demo App
 
-![]([https://github.com/Anas436/Text-Summarization-App/blob/main/text.gif](https://github.com/Anas436/AI-Smart-Attendance-System/blob/main/smart.mp4))
+![](https://github.com/Anas436/AI-Smart-Attendance-System/blob/main/smart.gif)
 
 ## Installation
 
